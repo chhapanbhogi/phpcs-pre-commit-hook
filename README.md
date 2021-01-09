@@ -3,7 +3,7 @@ A simple script to conform to phpcs standards before committing PHP code
 
 A git pre-commit hook for running [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) to ensure code conforms to PHP coding standards. It checks only PHP files before the code is committed.
 
-Inspired by [Enforce code standards with composer, git hooks, and phpcs] https://github.com/smgladkovskiy/phpcs-git-pre-commit
+Inspired by https://github.com/smgladkovskiy/phpcs-git-pre-commit
 
 ## Installation
 
