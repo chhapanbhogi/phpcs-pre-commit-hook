@@ -7,7 +7,7 @@ Inspired by https://github.com/smgladkovskiy/phpcs-git-pre-commit
 
 ## Installation
 
-Each git repository has a hooks directory inside the .git directory. Copy the pre-commit file and paste it in your directory and make the file executable using `chmod +x pre-commit`. If you have already using a pre-commit script then add this code in that file.
+Each git repository has a hooks directory inside the .git directory. Copy the pre-commit file and paste it in your directory (`.git/hooks`) and make the file executable using `chmod +x pre-commit`. If you have already using a pre-commit script then add this code in that file.
 
 ## Usage
 
